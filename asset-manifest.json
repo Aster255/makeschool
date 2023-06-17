@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aster255/makeschool/static/css/main.2606a3ba.css",
+    "main.js": "/Aster255/makeschool/static/js/main.d31fb836.js",
+    "index.html": "/Aster255/makeschool/index.html",
+    "main.2606a3ba.css.map": "/Aster255/makeschool/static/css/main.2606a3ba.css.map",
+    "main.d31fb836.js.map": "/Aster255/makeschool/static/js/main.d31fb836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2606a3ba.css",
+    "static/js/main.d31fb836.js"
+  ]
+}
